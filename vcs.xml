@@ -1,0 +1,28 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://sh.baek@210.123.114.163:8080/git/coresight_spark_application.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://210.123.114.163:8080" />
+          <option name="userName" value="sh.baek" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projects/spring-petclinic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sh.baek@210.123.114.163:8080/git/coresight_spark_application_mssql.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\workspace\coresight" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+</application>
