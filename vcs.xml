@@ -22,6 +22,10 @@
           <option name="url" value="http://106.255.230.90:8080" />
           <option name="userName" value="sh.baek" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bapadapa/programmers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace\coresight" />
