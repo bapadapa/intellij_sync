@@ -42,6 +42,10 @@
           <option name="url" value="http://sh.baek@106.255.230.90:8080/git/ncp_lib_core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sh.baek@106.255.230.90:8080/git/ncp_think_core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace\coresight" />
