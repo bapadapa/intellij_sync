@@ -50,6 +50,10 @@
           <option name="url" value="http://112.221.124.27:8080" />
           <option name="userName" value="sh.baek" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sh.baek@112.221.124.27:8080/git/lib_core_api_2024.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace\coresight" />
